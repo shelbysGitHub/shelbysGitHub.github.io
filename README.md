@@ -2,6 +2,9 @@
 
 This is Shelbys website to post stuff.
 
+Go To artifact one -> [Artifact One](https://shelbysGitHub.github.io/ArtifactOne.md).
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shelbysGitHub/shelbysGitHub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
